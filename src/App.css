@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  display:flex;
+  flex-wrap: wrap;
+  margin:100px 100px 100px 100px;
+  background-color:rgb(85, 149, 246);
+  justify-content:space-between;
+  padding:20px 20px 20px 20px;
+  height:600px;
+  width:1000px;
+  gap: 5px;
+}
+.card-text{
+  text-align:left;
+  line-height:40px;
+  font-size:14px;
+}
+button{
+  border-radius:95%
+}
